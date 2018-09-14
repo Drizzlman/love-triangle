@@ -12,7 +12,7 @@ For example:
   let count = getLoveTrianglesCount([2, 3, 1]);
   console.log(count); // 1
   /**
-    1st Spichonee loves 2nd Spichonee.
+    1st Spichonee loves 2nnpm ind Spichonee.
     2nd Spichonee loves 3rd Spichonee.
     3rd Spichonee love 1st Spichonee.
     There is love triangle.
